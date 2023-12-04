@@ -1,2 +1,3 @@
-# countess-project.github.io
-Top level website for countess-project.
+# CountESS Project
+
+* [CountESS Documentation](https://countess-project.github.io/CountESS/)
